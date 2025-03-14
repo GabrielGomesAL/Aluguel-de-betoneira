@@ -29,7 +29,7 @@ export default function App() {
         <Image
           source={{ uri: 'https://cdn.leroymerlin.com.br/products/betoneira_csm_cs_250_litros_1_cv_trifasica_220v_1566727936_8d9e_600x600.jpg' }}
           style={styles.imagem}
-          resizeMode="contain" // Exibe a imagem inteira sem cortes
+          resizeMode="contain" 
         />
         <Text style={styles.nomeBetoneira}>Betoneira 250L</Text>
         <Text style={styles.descricao}>Para médias obras.</Text>
@@ -68,8 +68,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   imagem: {
-    width: '100%', // Largura ajustada ao card
-    height: Dimensions.get('window').width * 0.5, // Altura proporcional à largura
+    width: '100%', 
+    height: Dimensions.get('window').width * 0.5, 
     borderRadius: 10,
     marginBottom: 15,
   },
