@@ -48,6 +48,28 @@ export default function App() {
       capacidade: '250 litros',
       potencia: '1 HP',
       features: ['Trifásica', 'Baixa vibração', 'Controle digital']
+    },
+
+    {
+      id: 3,
+      imagem: 'https://casadopicapau.vtexassets.com/arquivos/ids/162122/01.jpg?v=637974770623970000',
+      nome: 'Betoneira 350L Industrial',
+      descricao: 'Equilíbrio perfeito entre capacidade e versatilidade',
+      preco: 'R$ 380/dia',
+      capacidade: '350 litros',
+      potencia: '1 HP',
+      features: ['Trifásica', 'Baixa vibração', 'Controle digital']
+    },
+
+    {
+      id: 3,
+      imagem: 'https://cdn.leroymerlin.com.br/products/betoneira_cs_400l_rental_force_mono_127v_csm_92016463_f4a5_600x600.jpg',
+      nome: 'Betoneira 400L Industrial',
+      descricao: 'Equilíbrio perfeito entre capacidade e versatilidade',
+      preco: 'R$ 500/dia',
+      capacidade: '400 litros',
+      potencia: '2 HP',
+      features: ['Trifásica', 'Baixa vibração', 'Controle digital']
     }
     
   ];
