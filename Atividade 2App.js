@@ -51,7 +51,7 @@ export default function App() {
     },
 
     {
-      id: 3,
+      id: 4,
       imagem: 'https://casadopicapau.vtexassets.com/arquivos/ids/162122/01.jpg?v=637974770623970000',
       nome: 'Betoneira 350L Industrial',
       descricao: 'Equilíbrio perfeito entre capacidade e versatilidade',
@@ -62,7 +62,7 @@ export default function App() {
     },
 
     {
-      id: 3,
+      id: 5,
       imagem: 'https://cdn.leroymerlin.com.br/products/betoneira_cs_400l_rental_force_mono_127v_csm_92016463_f4a5_600x600.jpg',
       nome: 'Betoneira 400L Industrial',
       descricao: 'Equilíbrio perfeito entre capacidade e versatilidade',
